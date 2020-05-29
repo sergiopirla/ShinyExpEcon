@@ -3,5 +3,5 @@ Collection of functions that I've used in the past when programming economic exp
 
 The repository contains the following examples of Shiny apps:
 
-**page-rand.R :** Page randomization
+**page-rand.R :** Page randomization  
 **block-rand.R :** Page and block randomization
